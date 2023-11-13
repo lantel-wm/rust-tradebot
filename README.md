@@ -1,0 +1,1 @@
+Trying to write a rust version of [binance-trade-bot](https://github.com/edeng23/binance-trade-bot).
